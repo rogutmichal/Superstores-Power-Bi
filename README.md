@@ -74,6 +74,7 @@ Zysk według kategorii:
 - Interaktywne dashboardy
 
 <img width="1162" height="655" alt="image" src="https://github.com/user-attachments/assets/39c9d68e-ca0d-4172-8742-6d608e2f57cc" />
+<img width="1157" height="647" alt="image" src="https://github.com/user-attachments/assets/8e1b47b6-360f-43aa-958d-52eb1d6216be" />
 
 
 
