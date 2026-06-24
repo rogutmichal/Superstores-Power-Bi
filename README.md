@@ -1,7 +1,7 @@
 # Superstores-Power-Bi
-# 📊 Dashboard analizy sprzedaży i zysków (Power BI)
+#  Dashboard analizy sprzedaży i zysków (Power BI)
 
-## 🧾 Opis projektu
+## Opis projektu
 
 Projekt przedstawia interaktywny dashboard w Power BI, który analizuje globalne dane sprzedażowe, rentowność oraz kluczowe wskaźniki biznesowe na podstawie danych transakcyjnych (podobnych do datasetu *Superstore*).
 
@@ -9,7 +9,7 @@ Dashboard umożliwia analizę wyników w przekroju czasu, regionów, kategorii p
 
 ---
 
-## 🎯 Cel projektu
+##  Cel projektu
 
 Celem projektu było:
 
@@ -20,42 +20,42 @@ Celem projektu było:
 
 ---
 
-## 📊 Główne elementy dashboardu
+## Główne elementy dashboardu
 
-### 🔹 KPI (kluczowe wskaźniki)
+###  KPI (kluczowe wskaźniki)
 
-- 💰 Sprzedaż całkowita
-- 📈 Zysk
-- 🧾 Liczba zamówień
-- 📊 Marża zysku
+-  Sprzedaż całkowita
+-  Zysk
+-  Liczba zamówień
+-  Marża zysku
 
 ---
 
-### 📈 Analiza trendów
+###  Analiza trendów
 
 - Wykres liniowy sprzedaży i zysku w czasie (2011–2014)
 
 
 ---
 
-### 🌍 Analiza regionalna
+###  Analiza regionalna
 
 - Zysk w podziale na regiony
 - Identyfikacja najlepiej i najsłabiej działających obszarów
 
 ---
 
-### 📦 Analiza kategorii produktów
+###  Analiza kategorii produktów
 
 Zysk według kategorii:
 
-- 🖥️ Technologia
-- 🗂️ Materiały biurowe
-- 🪑 Meble
+-  Technologia
+-  Materiały biurowe
+-  Meble
 
 ---
 
-### 🏆 Najlepsze produkty
+###  Najlepsze produkty
 
 - Lista 10–15 najbardziej rentownych produktów
 - Porównanie sprzedaży i zysku
@@ -64,14 +64,11 @@ Zysk według kategorii:
 ---
 
 
-## 🛠️ Narzędzia i technologie
+##  Narzędzia i technologie
 
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
-- Modelowanie danych
-- Wizualizacja danych
-- Formatowanie warunkowe
-- Interaktywne dashboardy
+
 ##  Startowy dashboard
 
 <img width="1162" height="655" alt="image" src="https://github.com/user-attachments/assets/39c9d68e-ca0d-4172-8742-6d608e2f57cc" />
