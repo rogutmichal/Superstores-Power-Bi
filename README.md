@@ -1,90 +1,93 @@
-# Superstores-Power-Bi
-#  Dashboard analizy sprzedaży i zysków (Power BI)
+# Superstore Sales Analysis – Power BI
 
-## Opis projektu
+# Sales and Profit Analysis Dashboard (Power BI)
 
-Projekt przedstawia interaktywny dashboard w Power BI, w ktorym dokanoywana jest analiza globalnych danych sprzedażowe oraz kluczowe wskaźniki biznesowe na podstawie danych transakcyjnych. W analizie wykorzystane dane z zasóbu stworzonego przez Data Science Lovers:  https://www.kaggle.com/datasets/rohitgrewal/restaurant-sales-data/data
+## Project Overview
 
-Dashboard umożliwia analizę wyników w przekroju czasu, regionów, kategorii produktów oraz indywidualnych produktów.
+This project presents an interactive Power BI dashboard designed to analyze global sales data and key business performance indicators based on transactional data.
 
----
+The analysis is based on a dataset provided by Data Science Lovers on Kaggle:
+https://www.kaggle.com/datasets/rohitgrewal/restaurant-sales-data/data
 
-##  Cel projektu
-
-Celem projektu było:
-
-- Analiza trendów sprzedaży i zysku w czasie (2011–2014)
-- Identyfikacja najbardziej i najmniej rentownych regionów
-- Ocena wyników sprzedaży w podziale na kategorie i produkty
-- Zapewnienie interaktywnej analizy danych (filtry, segmentacja)
+The dashboard enables users to explore sales performance across different time periods, regions, product categories, and individual products.
 
 ---
 
-## Główne elementy dashboardu
+## Project Objectives
 
-###  KPI (kluczowe wskaźniki)
+The main objectives of this project were to:
 
--  Sprzedaż całkowita
--  Zysk
--  Liczba zamówień
--  Marża zysku
-
----
-
-###  Analiza trendów
-
-- Wykres liniowy sprzedaży i zysku w czasie (2011–2014)
-
+- Analyze sales and profit trends over time (2011–2014)
+- Identify the most and least profitable regions
+- Evaluate sales performance by product category and individual products
+- Provide interactive data exploration through filters and slicers
 
 ---
 
-###  Analiza regionalna
+## Dashboard Features
 
-- Zysk w podziale na regiony
-- Identyfikacja najlepiej i najsłabiej działających obszarów
+### Key Performance Indicators (KPIs)
 
----
-
-###  Analiza kategorii produktów
-
-Zysk według kategorii:
-
--  Technology
--  Furniture
--  Office supplies
+- Total Sales
+- Total Profit
+- Number of Orders
+- Profit Margin
 
 ---
 
-###  Najlepsze produkty
+### Trend Analysis
 
-- Lista najbardziej rentownych produktów
-- Porównanie sprzedaży i zysku
-- Formatowanie warunkowe (zielony/czerwony dla zysku)
+- Line chart showing sales and profit trends over time (2011–2014)
 
 ---
 
+### Regional Analysis
 
-##  Narzędzia i technologie
+- Profit by region
+- Identification of the best- and worst-performing regions
+
+---
+
+### Product Category Analysis
+
+Profit by category:
+
+- Technology
+- Furniture
+- Office Supplies
+
+---
+
+### Top Products
+
+- List of the most profitable products
+- Sales and profit comparison
+- Conditional formatting (green/red indicators based on profit)
+
+---
+
+## Tools & Technologies
 
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 
-##  Startowy dashboard
+---
 
-<img width="1162" height="655" alt="image" src="https://github.com/user-attachments/assets/39c9d68e-ca0d-4172-8742-6d608e2f57cc" />
+## Initial Dashboard
 
-##  Dane dla centralnej Azji w latach 2012-2013
+<img width="1162" height="655" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/39c9d68e-ca0d-4172-8742-6d608e2f57cc" />
 
-<img width="1157" height="647" alt="image" src="https://github.com/user-attachments/assets/8e1b47b6-360f-43aa-958d-52eb1d6216be" />
+---
 
-##  Formatowanie warunkowe w tabeli produktów
+## Central Asia Data (2012–2013)
 
-<img width="521" height="172" alt="image" src="https://github.com/user-attachments/assets/2125b57d-ad46-4680-9af4-dc1e47268894" />
+<img width="1157" height="647" alt="Central Asia Analysis" src="https://github.com/user-attachments/assets/8e1b47b6-360f-43aa-958d-52eb1d6216be" />
 
+---
 
+## Conditional Formatting in the Product Table
 
-
-
+<img width="521" height="172" alt="Conditional Formatting" src="https://github.com/user-attachments/assets/2125b57d-ad46-4680-9af4-dc1e47268894" />
 
 
 
